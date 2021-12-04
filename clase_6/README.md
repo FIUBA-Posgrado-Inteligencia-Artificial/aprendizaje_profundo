@@ -1,4 +1,4 @@
-# Clase 5 - Recurrent Neural Network
+# Clase 6 - Recurrent Neural Network
 
 ###Bibliografía:
 
