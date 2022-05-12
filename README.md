@@ -1,4 +1,4 @@
-# Deep Learning - 2021
+# Deep Learning - 2022
 Este repositorio contiene el material de clases (presentaciones, ejercicios y notebooks) para Deep Learning (CEIA - FIUBA)
 
 ### Organización del Repositorio
@@ -47,10 +47,11 @@ Este repositorio contiene el material de clases (presentaciones, ejercicios y no
 * Introducción a PyTorch
 * PyTorch y Redes Neuronales
 
-### [Clase 4](clase_4/README.md)
-* Vectorized Gradients
+### Clase 4
 * Vectorized Backpropagation
 * Dropout, Initialization, Batch Normalization y Momentum en PyTorch
+* Representation Learning 
+* Introducción a Embeddings
 
 ### Clase 5
 * Convolutional Neural Networks
@@ -62,10 +63,7 @@ Este repositorio contiene el material de clases (presentaciones, ejercicios y no
 ### Clase 7
 * Encoder-Decoder
 * Autoencoder
-* Representation Learning 
-* Embeddings 
 * Transfer Learning
-* Generative Adversarial Networks
 
 ### Clase 8
-* Examen 
+* Generative Adversarial Networks
