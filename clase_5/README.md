@@ -6,7 +6,7 @@
 - Sparse interaction y parameter sharing.
 - Activation y pooling layer.
 - Translational invariance.
-- [Back propagation en CNN](teoria/Backprop CNN.E0.pdf)
+- [Back propagation en CNN](<teoria/Backprop CNN.E0.pdf>)
 
 ## Notebooks:
 - [CNN_teoria](jupyter_notebooks/CNN_teoria.ipynb) (operaciones basica de conv y pooling).
