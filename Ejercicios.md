@@ -49,7 +49,6 @@
     *   `test_acc` (del test final)
     *   `n_parameter`
     *   `n_layers` (conv + activacion + pooling = 1 capa)
-    *   `n_epochs` de entrenamiento usadas.
 
     El modelo se deberá ajustar a los siguientes puntos:
 
@@ -57,9 +56,9 @@
     *   capa final de salida será una softmax de 10 elementos.
     *   cost_function será `CrossEntropyLoss`.
 
-    El ganador de la competencia será aquel que consiga el mayor `score` empleando la siguietne fórmula:
+    El ganador de la competencia será aquel que consiga el mayor `score` empleando la siguiente fórmula:
  
- ![equation](https://latex.codecogs.com/svg.image?score%20=%20\frac{1}{log_{10}(n\_parameter)}%20*%20\frac{10}{n\_epochs}*test\_acc*n\_layers)
+ ![equation](https://latex.codecogs.com/svg.image?score%20=%20\frac{1}{log_{10}(n\_parameter)}%20*%20test\_acc*n\_layers)
   
   Deberan presentar su código colab funcionando y el score alcanzado (con los valores de cada variable que compone el score).
    

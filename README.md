@@ -53,14 +53,14 @@ Este repositorio contiene el material de clases (presentaciones, ejercicios y no
 * Representation Learning 
 * Introducción a Embeddings
 
-### Clase 5
+### [Clase 5](clase_5/README.md)
 * Convolutional Neural Networks
     
-### Clase 6
+### [Clase 6](clase_6/README.md)
 * Recurrent Neural Networks
 * Attention Layers
 
-### Clase 7
+### [Clase 7](clase_7/README.md)
 * Encoder-Decoder
 * Autoencoder
 * Transfer Learning
