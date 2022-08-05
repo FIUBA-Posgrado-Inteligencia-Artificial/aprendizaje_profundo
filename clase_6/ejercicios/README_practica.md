@@ -2,7 +2,7 @@
 
 
 
-Empleando el notebook de [predicción de serie temporal](jupyter_notebooks/RNN_signal_TP.ipynb), proponer una 
+Empleando el notebook de [predicción de serie temporal](jupyter_notebooks/RNN_signal.ipynb), proponer una 
 arquitectura de RNN que mejore la performance del MLP.
  Deberá contar con las siguientes características:
 
