@@ -15,9 +15,8 @@
 - Transfer learning.
 
 ## Notebooks:
-- [Autoencoder](jupyter_notebooks/Autoencoder.ipynb) (autoencoders con MNIST).
-- [Word embedding](jupyter_notebooks/word_embedding.ipynb) (pseudo implementación de word rmbedding)
-- [Categorical embedding](jupyter_notebooks/cat_embedding.ipynb) (ejemplo de cat embedding).
+- [Autoencoder](jupyter_notebooks/Autoencoder_TP.ipynb) (autoencoders con MNIST).
+- [Categorical embedding](jupyter_notebooks/bike_embedding.ipynb) (ejemplo de cat embedding).
 - [Transfer learning](jupyter_notebooks/transfer_learning_tutorial.ipynb) (ejemplo de transfer learning).
 
 ## Trabajo práctico:
