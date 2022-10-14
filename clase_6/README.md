@@ -17,7 +17,7 @@
 
 ## Trabajo práctico:
 Generar una arquitectura de RNN que mejore la performance del MLP para predecir 10 valores a futuro de la serie temporal generada.
-- [RNN_signal_TP](jupyter_notebooks/RNN_signal_TP.ipynb) (trabajo practico RNN para predecir serie tiemporal sintética).
+- [RNN_signal](ejercicios/README_practica.md) (trabajo practico RNN para predecir serie tiemporal sintética).
 
 ## Bibliografía:
 
