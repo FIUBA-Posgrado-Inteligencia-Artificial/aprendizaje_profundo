@@ -1,9 +1,8 @@
 # Clase 1
 
-## [Teoría](teoria/presentacion/slides.pdf)
+## [Teoría](teoria/slides_clase_1.pdf.pdf)
 
 * Introducción a la Materia
 * Introducción a Deep Learning
 * Neuronas y Layers
 * Backpropagation
-* Stochastig Gradient Descent

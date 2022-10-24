@@ -5,24 +5,21 @@ Este repositorio contiene el material de clases (presentaciones, ejercicios y no
 
 ``` 
     Clase #
-        presentaciones
+        teoria
         ejercicios
-            data
-            src
-            tests
-        juypterbooks
-            data
-            notebooks
+        jupyter_notebooks
         README.md
 ```
 
 ### Requerimientos
 * Lenguaje de Programación
     * Python 3.8
-    * Pip para instalar librerías
+    * Pip / Conda para instalar librerías
 * Librerías
-    * Numpy 1.18
-    * SciPy 1.5
+    * Numpy
+	* Pandas
+	* Scikit-Learn
+    * SciPy
     * PyTorch
 * Consola Interactiva de Python 
     * IPython
@@ -36,22 +33,19 @@ Este repositorio contiene el material de clases (presentaciones, ejercicios y no
 
 ### [Clase 1](clase_1/README.md) 
 * Introducción a Deep Learning
-* Likelihood, Loss Functions, Hidden Units and Output Units
+* Redes Feedforward
 
 ### [Clase 2](clase_2/README.md)
-* Optimization
-* Regularization
-* Hyperparameter optimization
+* Funciones de activación
+* Funciones de pérdida y de salida
+* Optimización
 
 ### [Clase 3](clase_3/README.md)
-* Introducción a PyTorch
-* PyTorch y Redes Neuronales
+* Pytorch
 
-### Clase 4
-* Vectorized Backpropagation
-* Dropout, Initialization, Batch Normalization y Momentum en PyTorch
-* Representation Learning 
-* Introducción a Embeddings
+### [Clase 4](clase_4/README.md)
+* Regularización
+* Ajuste de hiperparámetros
 
 ### [Clase 5](clase_5/README.md)
 * Convolutional Neural Networks

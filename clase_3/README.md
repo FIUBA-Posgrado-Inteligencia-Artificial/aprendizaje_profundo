@@ -1,6 +1,6 @@
 # Clase 3
 
-## [Teoría](teoria/presentacion/slides.pdf)
+## [Teoría](teoria/slides_clase_3.pdf)
 
 * Frameworks de Deep Learning
 * Introducción a PyTorch
