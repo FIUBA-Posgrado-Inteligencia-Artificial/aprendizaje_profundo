@@ -6,3 +6,7 @@
 * Introducción a Deep Learning
 * Neuronas y Layers
 * Backpropagation
+
+## [Ejercicio resuelto](ejercicio/XOR_red_neuronal.ipynb)
+
+* XOR con red neuronal
