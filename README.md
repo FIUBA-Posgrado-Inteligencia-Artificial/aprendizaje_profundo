@@ -46,6 +46,7 @@ Este repositorio contiene el material de clases (presentaciones, ejercicios y no
 ### [Clase 4](clase_4/README.md)
 * Regularización
 * Ajuste de hiperparámetros
+* Embeddings
 
 ### [Clase 5](clase_5/README.md)
 * Convolutional Neural Networks
