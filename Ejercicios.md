@@ -12,7 +12,8 @@
 
 ## Clase 2
 
-
+1. Resolver el problema de la clase 1 utilizando Mini-Batch con momento de primer orden.
+	* Modificar learning rate y cte de primer orden.
 
 ## Clase 3
 
@@ -20,7 +21,7 @@
 
 ## Clase 4
 
-
+1. Entrenar modelo clase 3 con embeddings. Comparar métricas con el modelo sin embeddings.
     
 ## Clase 5
 

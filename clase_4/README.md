@@ -5,3 +5,10 @@
 * Regularización
 * Hyperparameter tunning
 * Embeddings
+
+## [Notebook Embeddings](jupyter_notebooks/Clase4_Embeddings.ipynb)
+
+* Id to Idx map
+* Pytorch
+	* DataSet with embeddings
+	* NN architecture with embeddings

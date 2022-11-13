@@ -7,6 +7,6 @@
 * Neuronas y Layers
 * Backpropagation
 
-## [Ejercicio resuelto](ejercicio/XOR_red_neuronal.ipynb)
+## [Ejercicios resueltos](ejercicios/XOR_red_neuronal.ipynb)
 
 * XOR con red neuronal

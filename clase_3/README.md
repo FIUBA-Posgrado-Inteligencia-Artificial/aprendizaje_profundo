@@ -1,6 +1,6 @@
 # Clase 3
 
-## [Notebook Pytorch](practica/Clase3_Pytorch.ipynb)
+## [Notebook Pytorch](jupyter_notebooks/Clase3_Pytorch.ipynb)
 
 * Pytorch
 	* Tensores
@@ -9,3 +9,10 @@
 	* Optimizadores
 	* Loss function
 	* Red neuronal sencilla
+	
+## [Notebook PyTorch Lightning](jupyter_notebooks/Clase3_Pytorch_Lightning.ipynb)
+
+* Pytorch Lightning
+	* pytorch_lightning
+	* LightningDataModule
+	* LightningModule
