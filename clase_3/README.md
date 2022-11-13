@@ -1,5 +1,9 @@
 # Clase 3
 
+## [Data](data/class_7_wine_dataset_v2.csv)
+
+* Wine quality dataset
+
 ## [Notebook Pytorch](jupyter_notebooks/Clase3_Pytorch.ipynb)
 
 * Pytorch
