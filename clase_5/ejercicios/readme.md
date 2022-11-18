@@ -24,6 +24,6 @@ thing_to_load = pickle.load( open( "file.pkl", "rb" ) )
 
 Los scores alcanzados hasta ahora fueron los siguientes:
 
-![imagen](https://drive.google.com/uc?export=view&id=1mXFuywyBu2TzdkQb-6HDwsPjvyJCGTfO)
+![imagen](score_cnn.png)
 
 
