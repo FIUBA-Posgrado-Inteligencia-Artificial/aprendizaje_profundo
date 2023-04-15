@@ -43,10 +43,27 @@
 
     El ganador de la competencia será aquel que consiga el mayor `score` empleando la siguiente fórmula:
  
- ![equation](https://latex.codecogs.com/svg.image?score%20=%20\frac{1}{log_{10}(n\_parameter)}%20*%20test\_acc*n\_layers)
-  
+
+
+$score = \frac{1}{log_{10}(n\_parameter)}*test\_acc*n\_layers$
+
+ 
   Deberan presentar su código colab funcionando y el score alcanzado (con los valores de cada variable que compone el score).
    
-   Se armará un ranking con el score alcanzado, la red ganadora se llavará el título del campeon!
+   Se armará un ranking con el score alcanzado, la red ganadora se llevará el título del campeon!
     
    Es una competencia fairplay y con fines didácticos, esta formula del ```score``` fué inventada.... no usar como referencia para definir qué modelo utilizar.
+
+   ## Clase 6
+
+   1. Ejercicio para RNN
+
+Empleando el notebook de [predicción de serie temporal](jupyter_notebooks/RNN_signal.ipynb), proponer una arquitectura de RNN que mejore la performance del MLP.
+Deberá contar con las siguientes características:
+
+    - Largo de entrada 50 muestras (para pasarle el mismo número de datos que al MLP).
+    - Predicción a futuro 10 muestras.
+    - Emplear el mismo paquete de datos generados (con la función `generate_time_series`) para
+    contar con los exactos mismos datos de entrenamiento, validación y testeo.
+Recordar que el MLP está programado para predecir 1 solo valor a futuro y
+    ahora deseamos predecir 10 valores a futuro!

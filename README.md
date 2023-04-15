@@ -58,7 +58,8 @@ Este repositorio contiene el material de clases (presentaciones, ejercicios y no
 ### [Clase 7](clase_7/README.md)
 * Encoder-Decoder
 * Autoencoder
-* Transfer Learning
 
-### Clase 8
+
+### [Clase 8](clase_8/README.md)
+* Transfer Learning
 * Generative Adversarial Networks
