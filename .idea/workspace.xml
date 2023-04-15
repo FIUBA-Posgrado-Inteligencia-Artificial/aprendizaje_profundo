@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="561187fd-322b-48b1-bd8e-edf5ffa51a3a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Ejercicios.md" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase_6/teoria/RNN.E2.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/clase_6/teoria/RNN.E2.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase_7/teoria/clase_7.E3.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/clase_7/teoria/clase_7.E3.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase_8/jupyter_notebooks/transfer_learning_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/clase_8/jupyter_notebooks/transfer_learning_tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase_8/teoria/clase_8.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/clase_8/teoria/clase_8.pptx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2M9fGNrvbEwN9UQ97aPmYWBV6bx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="561187fd-322b-48b1-bd8e-edf5ffa51a3a" name="Changes" comment="" />
+      <created>1677184621856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677184621856</updated>
+    </task>
+    <servers />
+  </component>
+</project>
