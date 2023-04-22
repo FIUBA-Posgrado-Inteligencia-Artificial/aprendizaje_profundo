@@ -1,4 +1,12 @@
 
+## links transfer learning
+
+https://cs231n.github.io/transfer-learning/
+
+https://machinelearningmastery.com/transfer-learning-for-deep-learning/
+
+https://ruder.io/transfer-learning/
+
 ## links GANs
 https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29
 
@@ -19,7 +27,4 @@ https://github.com/Yangyangii/GAN-Tutorial
 
 https://github.com/carpedm20/DCGAN-tensorflow
 
-## links transfer learning
-https://machinelearningmastery.com/transfer-learning-for-deep-learning/
 
-https://ruder.io/transfer-learning/
