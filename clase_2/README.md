@@ -18,3 +18,7 @@
     * Mini-Batch
     * Adagrad
     * Adam
+	
+## [Ejercicios resueltos](ejercicios/XOR_MiniBatch_PrimerMomento.ipynb)
+
+* XOR con red neuronal y mini-batch con primer momento.

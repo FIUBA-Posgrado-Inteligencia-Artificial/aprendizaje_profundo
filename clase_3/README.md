@@ -13,6 +13,11 @@
 	* Optimizadores
 	* Loss function
 	* Red neuronal sencilla
+
+## [Notebook PyTorch Custom Loss](jupyter_notebooks/Clase3_Pytorch_Custom_Loss.ipynb)
+
+* Pytorch Lightning
+	* Custom Loss function
 	
 ## [Notebook PyTorch Lightning](jupyter_notebooks/Clase3_Pytorch_Lightning.ipynb)
 
@@ -20,3 +25,5 @@
 	* pytorch_lightning
 	* LightningDataModule
 	* LightningModule
+	
+	
