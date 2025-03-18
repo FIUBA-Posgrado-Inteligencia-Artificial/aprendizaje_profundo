@@ -17,3 +17,5 @@ config: {'num_epochs': 100, 'learning_rate': 0.001, 'optimizer': 'SGD', 'archite
 2025-03-18 16:08:45,847 INFO    MainThread:23232 [wandb_run.py:_redirect():2292] Wrapping output streams.
 2025-03-18 16:08:45,847 INFO    MainThread:23232 [wandb_run.py:_redirect():2315] Redirects installed.
 2025-03-18 16:08:45,849 INFO    MainThread:23232 [wandb_init.py:init():1032] run started, returning control to user process
+2025-03-18 16:08:55,811 INFO    MainThread:23232 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-18 16:08:55,811 INFO    MainThread:23232 [wandb_init.py:_pause_backend():564] pausing backend

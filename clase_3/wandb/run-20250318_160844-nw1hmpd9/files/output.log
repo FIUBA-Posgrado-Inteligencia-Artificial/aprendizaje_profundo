@@ -1,2 +1,0 @@
-Epoch Progress:   1%|          | 1/100 [00:09<15:58,  9.69s/it]
-Epoch 1/100 - Train Loss: 1.8167 - Train Acc: 0.3878 | Eval Loss: 1.7850 - Eval Acc: 0.3978
