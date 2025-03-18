@@ -1,0 +1,42 @@
+{
+  "os":  "Windows-10-10.0.19045-SP0",
+  "python":  "CPython 3.12.0",
+  "startedAt":  "2025-03-18T15:08:44.930202Z",
+  "program":  "c:\\Users\\ZARAUZ\\Documents\\GitHub\\aprendizaje_profundo\\clase_3\\Introduction_to_PyTorch.ipynb",
+  "codePath":  "clase_3\\Introduction_to_PyTorch.ipynb",
+  "git":  {
+    "remote":  "https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/aprendizaje_profundo.git",
+    "commit":  "66fa831d3850b4fc64cf8ae09336def0a2c1c223"
+  },
+  "email":  "azm630@inlumine.ual.es",
+  "root":  "c:\\Users\\ZARAUZ\\Documents\\GitHub\\aprendizaje_profundo\\clase_3",
+  "host":  "DESKTOP-GCJV1JA",
+  "executable":  "c:\\Users\\ZARAUZ\\Documents\\GitHub\\aprendizaje_profundo\\.venv\\Scripts\\python.exe",
+  "codePathLocal":  "Introduction_to_PyTorch.ipynb",
+  "cpu_count":  8,
+  "cpu_count_logical":  16,
+  "gpu":  "NVIDIA GeForce RTX 2060",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "479493877760",
+      "used":  "378229395456"
+    }
+  },
+  "memory":  {
+    "total":  "17123680256"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  16
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 2060",
+      "memoryTotal":  "6442450944",
+      "cudaCores":  1920,
+      "architecture":  "Turing"
+    }
+  ],
+  "cudaVersion":  "12.8"
+}
