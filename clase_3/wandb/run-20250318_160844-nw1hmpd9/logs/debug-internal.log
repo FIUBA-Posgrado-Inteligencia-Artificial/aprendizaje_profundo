@@ -1,8 +1,0 @@
-{"time":"2025-03-18T16:08:44.932878+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"c:\\Users\\ZARAUZ\\Documents\\GitHub\\aprendizaje_profundo\\clase_3\\wandb\\run-20250318_160844-nw1hmpd9\\logs\\debug-core.log"}
-{"time":"2025-03-18T16:08:45.1747385+01:00","level":"INFO","msg":"created new stream","id":"nw1hmpd9"}
-{"time":"2025-03-18T16:08:45.1747385+01:00","level":"INFO","msg":"stream: started","id":"nw1hmpd9"}
-{"time":"2025-03-18T16:08:45.1768244+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"nw1hmpd9"}
-{"time":"2025-03-18T16:08:45.1768244+01:00","level":"INFO","msg":"sender: started","stream_id":"nw1hmpd9"}
-{"time":"2025-03-18T16:08:45.1768244+01:00","level":"INFO","msg":"handler: started","stream_id":"nw1hmpd9"}
-{"time":"2025-03-18T16:08:45.5887792+01:00","level":"INFO","msg":"Starting system monitor"}
-{"time":"2025-03-18T16:08:55.8128299+01:00","level":"INFO","msg":"Pausing system monitor"}
