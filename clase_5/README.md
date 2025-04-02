@@ -1,4 +1,4 @@
-# Clase 6 - Convolutional Neural Networks
+# Clase 5 - Convolutional Neural Networks
 
 ## [Teoria](teoria/CNN.pptx) (powerpoint):
 - Operación de convolución y padding.
@@ -10,12 +10,11 @@
 
 ## Notebooks:
 - [CNN_teoria](jupyter_notebooks/CNN_teoria.ipynb) (operaciones basica de conv y pooling).
-- [CNN_implementacion](jupyter_notebooks/CNN_implementacion.ipynb) (ejemplo de red CNN con base MNIST).
+- [CNN_implementacion_wandb](jupyter_notebooks/CNN_implementacion_wandb.ipynb) (ejemplo de red CNN con base MNIST conectado a Weights and Biases).
 
-## Trabajo práctico:
-Entrenar una red que identifique los dígitos del dataset MNIST.
-- [CNN_TP](ejercicios/CNN_TP.ipynb) (colab para usar de base)
-- [datos a usar](ejercicios/)
+## Ejercicio práctico:
+Explorar los distintos hiperparámetros de una CNN (`kernel size`, `stride`, `padding`, `padding_mode`, `nro_channels`) para el dataset MNIST y evaluar como afectan a la performance el modelo.
+
 
 ## Bibliografía:
 
