@@ -9,6 +9,10 @@ clase_6/jupyter_notebooks/RNN_lorentz_wandb.ipynb
 clase_7/jupyter_notebooks/local
 clase_7/jupyter_notebooks/data
 clase_7/jupyter_notebooks/wandb
+clase_8/jupyter_notebooks/local
+clase_8/jupyter_notebooks/data
+clase_8/jupyter_notebooks/README_experimentos_GAN.md
 .venv
+__pycache__/
 *.py
 **/online/

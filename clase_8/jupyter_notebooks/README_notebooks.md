@@ -9,4 +9,3 @@ en la variable `data_dir` al principio del código.
 
 GANs:
 - [Link](https://github.com/Yangyangii/GAN-Tutorial) del colab visto en la clase.
-
