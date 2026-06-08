@@ -7,10 +7,10 @@ clase_5/jupyter_notebooks/README_experimentos_CNN.md
 clase_6/jupyter_notebooks/wandb
 clase_6/jupyter_notebooks/RNN_lorentz_wandb.ipynb
 clase_7/jupyter_notebooks/wandb
+clase_7/experimentos/
 clase_8/jupyter_notebooks/README_experimentos_GAN.md
-clase_*/data/
-clase_*/jupyter_notebooks/local/
-clase_*/jupyter_notebooks/data/
+**/data/
+**/local/
 .venv
 __pycache__/
 *.py

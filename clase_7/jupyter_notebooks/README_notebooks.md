@@ -1,31 +1,15 @@
-# Guia para correr notebook
+# Guía de notebooks de autoencoders
 
+## Criterio común
 
-Autoencoders:
-- El entrenamiento y la evaluación con ejecutan cambiando la variables `TRAIN_SCRATCH` dentro del `main`.
-- El entrenamiento, salva el modelo en la ruta marcada por la variable `direccion` 
-que deben cargar. Si dejan por defecto `'/content'` guardará el modelo en 
-la sesion vigente del Colab (se pierde al salir).
-- Una vez entenado el modelo, se puede cambiar `TRAINS_SCRATCH` a `False` y el 
-programa cargará el modeo y ejecutará el test.
+- Todos los notebooks siguen el mismo flujo: preparar datos, definir modelo, entrenar o cargar pesos, evaluar reconstrucción y analizar el espacio latente.
+- Cuando aparece `TRAIN_SCRATCH`, `True` entrena desde cero y `False` reutiliza un modelo guardado en `direccion`.
+- En local conviene cambiar `direccion` por una carpeta del proyecto. Si queda en `'/content'`, esa ruta solo tiene sentido en Colab.
+- Los notebooks quedan autocontenidos y no dependen de servicios externos de tracking.
 
+## Notebooks
 
-Word embedding:
-- sin particularidades
-
-Categorical embedding:
-- Es necesario descargar un dataset e indicar la ruta para que el código lo
-pueda leer.
-- El data set se descarga del siguiente [link](https://drive.google.com/file/d/1M462qbtnFXMyYvWlpHeYjxsXdQJm9IxJ/view?usp=sharing).
-- La fuente del dataset está [aquí](https://archive.ics.uci.edu/ml/datasets/Adult).
-
-
-
-Transfer learning:
-- Es necesario descargar las imagenes a procesar (hormigas o abejas). Se pueden
-hallar en el siguiente [link](https://drive.google.com/drive/folders/1La_-Y6tLcaAn_4zXTkTYxfD1luaTyKkq?usp=sharing).
-- También será necesario indicar la ruta que tiene a las carpetas de `test` y `val` 
-en la variable `data_dir` al principio del código.
-
-
-
+- `Autoencoder.ipynb`: notebook de referencia con autoencoder denso, convolucional y sparse.
+- `Autoencoder_ejercicio.ipynb`: ejercicio guiado para comparar variantes con espacio latente 2D.
+- `Variational_AutoEncoder.ipynb`: variante probabilística con término de regularización KL.
+- `../ejercicios/Autoencoder_TP.ipynb`: trabajo práctico orientado a interpretar y recorrer el espacio latente.
