@@ -1,0 +1,119 @@
+{
+  "history": [
+    {
+      "epoch": 1,
+      "train": {
+        "loss": 361.9883444912997,
+        "reconstruction": 361.9883444912997,
+        "mse": 0.4617198178984902,
+        "l1": 0.0,
+        "kl": 0.0,
+        "regularization": 0.0
+      },
+      "valid": {
+        "loss": 350.84281391601564,
+        "reconstruction": 350.84281391601564,
+        "mse": 0.4475035806179047,
+        "l1": 0.0,
+        "kl": 0.0,
+        "regularization": 0.0
+      }
+    },
+    {
+      "epoch": 2,
+      "train": {
+        "loss": 351.2764574041193,
+        "reconstruction": 351.2764574041193,
+        "mse": 0.44805669744231486,
+        "l1": 0.0,
+        "kl": 0.0,
+        "regularization": 0.0
+      },
+      "valid": {
+        "loss": 350.842689453125,
+        "reconstruction": 350.842689453125,
+        "mse": 0.4475034200668335,
+        "l1": 0.0,
+        "kl": 0.0,
+        "regularization": 0.0
+      }
+    },
+    {
+      "epoch": 3,
+      "train": {
+        "loss": 351.27636259321736,
+        "reconstruction": 351.27636259321736,
+        "mse": 0.4480565756711093,
+        "l1": 0.0,
+        "kl": 0.0,
+        "regularization": 0.0
+      },
+      "valid": {
+        "loss": 350.8426237792969,
+        "reconstruction": 350.8426237792969,
+        "mse": 0.44750333762168887,
+        "l1": 0.0,
+        "kl": 0.0,
+        "regularization": 0.0
+      }
+    },
+    {
+      "epoch": 4,
+      "train": {
+        "loss": 351.2763148082386,
+        "reconstruction": 351.2763148082386,
+        "mse": 0.4480565152038227,
+        "l1": 0.0,
+        "kl": 0.0,
+        "regularization": 0.0
+      },
+      "valid": {
+        "loss": 350.8425869628906,
+        "reconstruction": 350.8425869628906,
+        "mse": 0.4475032886981964,
+        "l1": 0.0,
+        "kl": 0.0,
+        "regularization": 0.0
+      }
+    },
+    {
+      "epoch": 5,
+      "train": {
+        "loss": 351.2762861860796,
+        "reconstruction": 351.2762861860796,
+        "mse": 0.4480564782792872,
+        "l1": 0.0,
+        "kl": 0.0,
+        "regularization": 0.0
+      },
+      "valid": {
+        "loss": 350.8425643066406,
+        "reconstruction": 350.8425643066406,
+        "mse": 0.4475032612323761,
+        "l1": 0.0,
+        "kl": 0.0,
+        "regularization": 0.0
+      }
+    },
+    {
+      "epoch": 6,
+      "train": {
+        "loss": 351.2762687855114,
+        "reconstruction": 351.2762687855114,
+        "mse": 0.44805645621906626,
+        "l1": 0.0,
+        "kl": 0.0,
+        "regularization": 0.0
+      },
+      "valid": {
+        "loss": 350.8425541015625,
+        "reconstruction": 350.8425541015625,
+        "mse": 0.4475032474040985,
+        "l1": 0.0,
+        "kl": 0.0,
+        "regularization": 0.0
+      }
+    }
+  ],
+  "best_epoch": 6
+}
