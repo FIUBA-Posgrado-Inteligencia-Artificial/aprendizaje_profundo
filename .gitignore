@@ -7,7 +7,7 @@ clase_5/jupyter_notebooks/README_experimentos_CNN.md
 clase_6/jupyter_notebooks/wandb
 clase_6/jupyter_notebooks/RNN_lorentz_wandb.ipynb
 clase_7/jupyter_notebooks/wandb
-clase_7/experimentos/
+experimentos/
 clase_8/jupyter_notebooks/*_GAN.md
 clase_8/jupyter_notebooks/README_experimentos_transfer_learning.md
 clase_8/jupyter_notebooks/script_tl_exp_*.py
@@ -19,3 +19,4 @@ clase_8/jupyter_notebooks/transfer_learning_avanzado.ipynb
 __pycache__/
 *.py
 **/online/
+grabaciones/
